@@ -1,0 +1,21 @@
+.css-progress{
+  
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 150px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.css-progress-design{
+  border: none;
+  height: 45px;
+  width: 75px;
+  font-size: 40px;
+  background-color: rgb(55, 55, 229);
+}
+
+.css-progress-design-lovec{
+  background-color: rgb(237, 142, 40);
+}
