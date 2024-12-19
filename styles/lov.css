@@ -1,0 +1,81 @@
+body {
+  font-family: Arial;
+}
+
+.input {
+  background-color: darkturquoise;
+  font-weight: inherit;
+  border-radius: 0px;
+  border: solid 4px black;
+  cursor: pointer;
+  width: 90px;
+  height: 50px;
+  text-align: center;
+}
+
+.lovec {
+  background-color: blueviolet;
+}
+
+.js-input1{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.js-input2{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 50px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.js-input3{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 100px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.js-input4{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 150px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.js-input5{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 200px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.js-input6{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 250px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.js-input7{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 300px;
+  margin-inline: auto;
+  text-align: center;
+}
