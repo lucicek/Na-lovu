@@ -79,3 +79,16 @@ body {
   margin-inline: auto;
   text-align: center;
 }
+
+.questions{
+  border: solid 5px black;
+  height: 320px;
+  text-align: center;
+  font-size: 40px;
+  background-color: #cc3333;
+  width: 3000px;
+  margin: 0;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
